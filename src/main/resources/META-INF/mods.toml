@@ -1,0 +1,16 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="Apache Licence"
+[[mods]]
+modId="computersmod"
+version="${file.jarVersion}"
+displayName="Computers Mod"
+logoFile="logo.png"
+authors="TheAirBlow"
+description="This is mod, that adds computers, monitor, routers, etc. to Minecraft."
+[[dependencies.computersmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4,1.17)"
+    ordering="NONE"
+    side="BOTH"
