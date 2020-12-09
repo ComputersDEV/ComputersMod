@@ -1,11 +1,16 @@
 # Computers Mod
+![Licence](https://img.shields.io/badge/Licence-Apache%202.0-blue)
+![Fatness](https://img.shields.io/github/repo-size/ComputersDEV/ComputersMod)
+![Downloads](https://img.shields.io/github/downloads/ComputersDEV/ComputersMod/total)
+[![Codacy](https://app.codacy.com/project/badge/Grade/34224ed8dba54bf484c3cf69839b6297)](https://www.codacy.com/gh/ComputersDEV/ComputersMod/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ComputersDEV/ComputersMod&amp;utm_campaign=Badge_Grade)
+
 This mod adds all sorts of computers, pereferals, etc. to the Minecraft world
 with a powerful high-level API.
 
 **⚠ WARNING: Currently in development, do not use this mod for now. ⚠**
 
 ## Licence
-This project is licenced under ![Apache Licence](https://github.com/ComputersDEV/ComputersMod).
+This project is licenced under [Apache Licence](https://github.com/ComputersDEV/ComputersMod/blob/master/LICENSE).
 
 ## Modpack Use
 Mod's build can be used everywhere you want.
@@ -43,7 +48,7 @@ These are the rules for PRs:
 - Normal formatting
 - It must work (logical!)
 - No dependecies.
-- Do commit ![squashing](http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html).
+- Do commit [squashing](http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html).
   
 ## Contacts
 Do not spam, or I'll block you.
