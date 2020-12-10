@@ -21,8 +21,7 @@ Contributions are welcomed!
 ### Assets and Localization
 - Translations
 
-  You can find localizations files **here (TODO)**. Use English lang file as the base. If the lang file for your language already exists, check if it's done.
-  Use language IDs - like en_US, etc.
+  You can find localizations files **here (TODO)**. Use English lang file as the base. If the lang file for your language already exists, check if it's done. Use language IDs - like en_US, etc.
 - Textures
 
   If you want to update one of the textures, feel free to do a PR. You can find all textures **here (TODO)**.
@@ -33,28 +32,19 @@ Contributions are welcomed!
 ### Source code
 - Features
 
-  First contact me, only then do a PR.
-
-  I will not accept these:
-
+  First contact me, only then do a PR. I will not accept these:
   - Better versions of any components, computers, etc.
-
   - Limiting computer's features, i. e. more components.
 - Bugs
 
   You can report bugs on the Issues tab, or if you can fix it yourself do a PR. Check if someone already reported this bug, and also is your ComputersMod is up-to-date.
-
   It can be already fixed.
 - Core
 
   This includes main source and the API. If you want change something, first contact me and disscuss about it, and only then do PR.
-
   I will not accept these:
-
   - Renaming method's names.
-
   - Moving code, assets, etc.
-
   - Changing whitespaces.
   
 ### Pull requests
